@@ -1,5 +1,5 @@
 # Prologue
-(Write the prologue here)
+In this book, we will learn about collaborating using GitHub
 # Chapter 1: Using GitHub for Collaboration
 ## Section 1.1
 ## Section 1.2
