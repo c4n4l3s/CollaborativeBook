@@ -1,5 +1,5 @@
 # Prologue
-(Write the prologue here)
+This book explain how to use Git and GitHub...
 # Chapter 1: Introduction to Git and GitHub
 ## Section 1.1
 I used to be and adventurer like you
