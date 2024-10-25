@@ -6,4 +6,6 @@ I used to be and adventurer like you
 ## Section 1.2
 but then I took an arrow to the knee
 ## Section 1.3
+I like trains
 ## Section 1.4
+I really really REALLY like trains
